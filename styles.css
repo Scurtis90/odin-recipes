@@ -1,0 +1,44 @@
+.banner {
+  text-align: center;
+  background-color: lightcoral;
+  color: rgb(37, 94, 201);
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-size: 3em;
+}
+
+a {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.list {
+  color: rebeccapurple;
+  font-size: larger;
+}
+
+.one {
+  background-color: lightblue;
+}
+
+.two {
+  background-color: lightseagreen;
+}
+
+.three {
+  background-color: lemonchiffon;
+}
+
+a:link {
+  text-decoration: none;
+}
+
+a:visited {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+a:active {
+  text-decoration: none;
+}
